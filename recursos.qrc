@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/Personagens">
+        <file>img/Personagens/guerreiro_.png</file>
+        <file>img/Personagens/barbaro_.png</file>
+        <file>img/Personagens/mago_.png</file>
+        <file>img/Personagens/arqueiro_.png</file>
+        <file>img/Personagens/assassino_.png</file>
+    </qresource>
+    <qresource prefix="/Monstros">
+        <file>img/Monstros/Assassins.png</file>
+        <file>img/Monstros/bomba.png</file>
+        <file>img/Monstros/cobra.png</file>
+        <file>img/Monstros/esqueleto_editado.png</file>
+        <file>img/Monstros/Fantasma.png</file>
+        <file>img/Monstros/fennix.png</file>
+        <file>img/Monstros/Lobo.png</file>
+        <file>img/Monstros/Monstro1.png</file>
+        <file>img/Monstros/Rato.png</file>
+        <file>img/Monstros/Slime.png</file>
+    </qresource>
+    <qresource prefix="/Tiles">
+        <file>img/Tiles/tijolo.png</file>
+        <file>img/Tiles/Caverna.png</file>
+        <file>img/Tiles/telaFundo2.jpg</file>
+        <file>img/Tiles/J.jpg</file>
+    </qresource>
+    <qresource prefix="/Audio">
+        <file>img/Audio/SomDesligado.png</file>
+        <file>img/Audio/SomLigado.png</file>
+        <file>img/Audio/audioJogo.mp3</file>
+    </qresource>
+</RCC>

@@ -56,7 +56,7 @@ Jogo::Jogo(int classePer, string nome, QProgressBar *bar_hp, QProgressBar *bar_m
     map= new char*[100];
     for(int i=0; i<100; i++)
         map[i]= new char[100];
-    std::ifstream abre("c:/Users/Vitor Ramos/Desktop/Desenvolvimento/mapa.txt");
+    std::ifstream abre("c:/Users/carlo/Downloads/RPG agora e FINAL_COM MUSICA/mapa.txt" );
     if(abre)
     {
         for(int i=0; i<100; i++)
@@ -74,6 +74,8 @@ bool Jogo::getGanhou()
     return ganhou;
 }
 
+#include <iostream>
+using namespace std;
 
 void Jogo::UpdateWindows(int w_, int h_)
 {
